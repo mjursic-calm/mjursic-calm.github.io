@@ -1,0 +1,11 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.michaeljursic.calmabc",
+    "sha256_cert_fingerprints": [
+      "D4:58:D3:65:EB:F8:9E:0C:CE:3E:01:DF:31:FB:92:CE:D0:D9:B9:8E:54:52:DF:92:AD:8E:A2:61:C8:24:FC:54",
+      "C6:5C:85:E0:95:44:C4:C7:5F:BB:37:11:0E:FA:27:8C:18:EF:B1:2F:13:10:05:C5:DB:E3:68:38:FF:58:76:C9"
+    ]
+  }
+}]
